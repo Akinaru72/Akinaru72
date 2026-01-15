@@ -9,3 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akinaru3@gmail.com
 
 -->
+
+JavsScript | React | Node | TypeScript | CSS | HTML
+
+- 📫 How to reach me: akinaru3@gmail.com
