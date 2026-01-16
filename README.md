@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-![Image](https://github.com/user-attachments/assets/04921d45-3c61-497e-b1d0-9840d0b05e76)
+![Image](https://github.com/user-attachments/assets/95075b07-d7a5-478c-8d40-f8bbed8bc11c)
 
 JavsScript | React | Node | TypeScript | CSS | HTML
 
